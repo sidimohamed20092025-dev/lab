@@ -1,0 +1,21 @@
+{
+"app.name":"Labora",
+"app.tagline":"مختبر تفاعلي لتجارب الفيزياء والكيمياء",
+"nav.home":"الرئيسية","nav.skip":"انتقل إلى المحتوى","nav.back":"رجوع",
+"lang.switch":"Français","lang.switchLabel":"Changer la langue en français",
+"hero.title":"جرّب الظاهرة بنفسك، لا اقرأ عنها فقط",
+"hero.text":"موسوعة تجارب تجمع الشرح والمحاكاة والمعادلات الحقيقية، وتعمل بدون إنترنت.",
+"wave.caption":"تراكب موجتين: المجموع يساوي مجموع الإزاحتين في كل لحظة",
+"wave.freq":"تردد الموجة الثانية","wave.sum":"المجموع","wave.w1":"الموجة 1","wave.w2":"الموجة 2",
+"wave.pause":"إيقاف","wave.play":"تشغيل",
+"families.title":"اختر مجالاً",
+"family.physics":"الفيزياء","family.physics.desc":"الحركة، القوى، الموجات، الضوء، الكهرباء والمغناطيسية.",
+"family.chemistry":"الكيمياء","family.chemistry.desc":"المادة، التفاعلات، الأحماض والقواعد، المحاليل والغازات.",
+"family.both":"الفيزياء والكيمياء","family.both.desc":"ظواهر تتقاطع فيها القوانين الفيزيائية مع التحولات الكيميائية.",
+"family.categories":"التصنيفات","family.count":"تصنيفات",
+"family.empty":"لم تُضف تجارب إلى هذا التصنيف بعد.",
+"family.notfound":"هذا المجال غير موجود.","notfound.title":"الصفحة غير موجودة","notfound.back":"العودة إلى الرئيسية",
+"cat.mechanics":"الميكانيكا","cat.waves":"الموجات","cat.optics":"البصريات","cat.electricity":"الكهرباء","cat.magnetism":"المغناطيسية","cat.thermodynamics":"الترموديناميك","cat.fluids":"الموائع","cat.modern":"الفيزياء الحديثة",
+"cat.matter":"المادة","cat.reactions":"التفاعلات الكيميائية","cat.acidsBases":"الأحماض والقواعد","cat.solutions":"المحاليل","cat.gases":"الغازات","cat.redox":"الأكسدة والاختزال","cat.kinetics":"سرعة التفاعل","cat.separation":"تقنيات الفصل",
+"cat.gasLaws":"قوانين الغازات","cat.electrochemistry":"الكيمياء الكهربائية","cat.phaseChanges":"تغيّر الحالة","cat.diffusion":"الانتشار","cat.density":"الكثافة","cat.combustion":"الاحتراق"
+}

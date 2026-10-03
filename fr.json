@@ -1,0 +1,21 @@
+{
+"app.name":"Labora",
+"app.tagline":"Un laboratoire interactif d'expériences de physique et de chimie",
+"nav.home":"Accueil","nav.skip":"Aller au contenu","nav.back":"Retour",
+"lang.switch":"العربية","lang.switchLabel":"تغيير اللغة إلى العربية",
+"hero.title":"Faites l'expérience du phénomène, ne vous contentez pas d'en lire",
+"hero.text":"Une encyclopédie d'expériences avec explications, simulations et équations réelles, utilisable hors ligne.",
+"wave.caption":"Superposition de deux ondes : la somme des deux élongations à chaque instant",
+"wave.freq":"Fréquence de l'onde 2","wave.sum":"Somme","wave.w1":"Onde 1","wave.w2":"Onde 2",
+"wave.pause":"Pause","wave.play":"Lecture",
+"families.title":"Choisissez un domaine",
+"family.physics":"Physique","family.physics.desc":"Mouvement, forces, ondes, lumière, électricité et magnétisme.",
+"family.chemistry":"Chimie","family.chemistry.desc":"Matière, réactions, acides et bases, solutions et gaz.",
+"family.both":"Physique-Chimie","family.both.desc":"Phénomènes où les lois physiques rencontrent les transformations chimiques.",
+"family.categories":"Catégories","family.count":"catégories",
+"family.empty":"Aucune expérience n'a encore été ajoutée à cette catégorie.",
+"family.notfound":"Ce domaine n'existe pas.","notfound.title":"Page introuvable","notfound.back":"Retour à l'accueil",
+"cat.mechanics":"Mécanique","cat.waves":"Ondes","cat.optics":"Optique","cat.electricity":"Électricité","cat.magnetism":"Magnétisme","cat.thermodynamics":"Thermodynamique","cat.fluids":"Fluides","cat.modern":"Physique moderne",
+"cat.matter":"Matière","cat.reactions":"Réactions chimiques","cat.acidsBases":"Acides et bases","cat.solutions":"Solutions","cat.gases":"Gaz","cat.redox":"Oxydoréduction","cat.kinetics":"Cinétique chimique","cat.separation":"Techniques de séparation",
+"cat.gasLaws":"Lois des gaz","cat.electrochemistry":"Électrochimie","cat.phaseChanges":"Changements d'état","cat.diffusion":"Diffusion","cat.density":"Masse volumique","cat.combustion":"Combustion"
+}

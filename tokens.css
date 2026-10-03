@@ -1,0 +1,13 @@
+:root {
+  color-scheme: dark;
+  /* palette: instrument-panel slate + two signal colours (physics cyan, chemistry amber) */
+  --bg: #0d1318; --panel: #151d25; --panel-2: #1b2530; --line: #2a3745;
+  --text: #e8eef3; --muted: #9aa9b7;
+  --physics: #5cc8d7; --chem: #e8b04a; --focus: #ffd980;
+  --space-1: .25rem; --space-2: .5rem; --space-3: .75rem; --space-4: 1rem; --space-6: 1.5rem; --space-8: 2rem;
+  --r-sm: 8px; --r-md: 14px;
+  --font: system-ui, -apple-system, "Segoe UI", "Noto Sans Arabic", "Noto Sans", Roboto, sans-serif;
+  --dur: 160ms; --ease: cubic-bezier(.2,.7,.2,1);
+  --tap: 44px; --max: 72rem;
+}
+@media (prefers-reduced-motion: reduce) { :root { --dur: 0ms } }
